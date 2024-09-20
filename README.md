@@ -4,13 +4,11 @@
 <h3 font-size="20" align="center">Apasionado por las nuevas tecnologias y el desarrollo ESP/ENG.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently learning **JavaScript* <img align="right" style="width:16rem; height:auto" src="https://cdn.pixabay.com/photo/2024/05/15/20/58/developer-8764528_1280.jpg"/>
 
-- 👯 I’m looking to collaborate on **Spring Framework**
+- 🌱 I’m currently learning **OOP with Java**
 
 - 🤝 I’m looking for help with **Backend Design**
-
-<! - 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48) -->
 
 - 💬 Ask me about **System Designs and Philosophy 😆**
 
