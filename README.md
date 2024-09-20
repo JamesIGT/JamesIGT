@@ -1,6 +1,4 @@
-<p align="center">
-  <img style="width:18rem; height:auto" src="https://www.michaelpage.com.hk/sites/michaelpage.com.hk/files/2022-05/Software%20Developer.jpg"/>
-</p>
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 
 <h1 align="center">Hola, mi nombre es Jared Gonzalez <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">Apasionado por las nuevas tecnologias y el desarrollo ESP/ENG.</h3>
