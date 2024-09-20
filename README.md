@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://www.michaelpage.com.hk/sites/michaelpage.com.hk/files/2022-05/Software%20Developer.jpg"/>
+  <img style="width:18rem; height:auto" src="https://www.michaelpage.com.hk/sites/michaelpage.com.hk/files/2022-05/Software%20Developer.jpg"/>
 </p>
 
 <h1 align="center">Hola, mi nombre es Jared Gonzalez <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
