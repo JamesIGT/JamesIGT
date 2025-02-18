@@ -4,8 +4,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-jarecgonzalez-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jared-gonzalez-teran--694ab6214/)](https://www.linkedin.com/in/jared-gonzalez-teran-694ab6214/)
 [![Twitter Badge](https://img.shields.io/badge/-@__jarecgonzalez-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
-[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://www.instagram.com/yareyaredo/)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/yareyaredo/)](https://www.instagram.com/yareyaredo/)
+[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jarecgonza@gmail.com)](mailto:jarecgonza@gmail.com)
 
 <h3 font-size="20" align="center">Apasionado por las nuevas tecnologias y el desarrollo ESP/ENG.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
