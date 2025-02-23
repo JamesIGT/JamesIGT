@@ -3,16 +3,16 @@
 <h1 align="center">Hi!, my name is Jared Gonzalez Teran <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-jarecgonzalez-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jared-gonzalez-teran--694ab6214/)](https://www.linkedin.com/in/jared-gonzalez-teran-694ab6214/)
-[![Twitter Badge](https://img.shields.io/badge/-@__jarecgonzalez-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
+[![Twitter Badge](https://img.shields.io/badge/-@__jarecgonzalez-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://x.com/JarecGonzalezT)
 [![Instagram Badge](https://img.shields.io/badge/-@jarecgonzalez-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/yareyaredo/)](https://www.instagram.com/yareyaredo/)
 [![Gmail Badge](https://img.shields.io/badge/-jarecgonzalez-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jarecgonza@gmail.com)](mailto:jarecgonza@gmail.com)
 
 <h3 font-size="20" align="center">Apasionado por las nuevas tecnologias y el desarrollo ESP/ENG.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
-- 🌱 I’m currently learning **JavaScript* <img align="right" style="width:15rem; height:auto" src="https://cdn.pixabay.com/photo/2024/05/15/20/58/developer-8764528_1280.jpg"/>
+- 🌱 I’m currently learning **JavaScript* <img align="right" style="width:15rem; height:auto" src="https://i.pinimg.com/736x/10/00/1e/10001e3ba10847cf1152344bc146be8f.jpg"/>
 
-- 🌱 I’m currently learning **Data Sscience**
+- 🌱 Appasionate themes like **Data Sscience** and **Cibersecurity**
 
 - 🤝 I’m looking for help with **Backend Design**
 
