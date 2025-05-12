@@ -1,4 +1,4 @@
-<p align="center"><picture align="center"><img align="center" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHE4M3hid3ExeGQ0MXR4NnpraHhiMGpiZTlibm0yYjExbDlsOHBrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" width = 100% height = 50px></picture></p>
+<p align="center"><picture align="center"><img align="center" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHE4M3hid3ExeGQ0MXR4NnpraHhiMGpiZTlibm0yYjExbDlsOHBrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" width = 100% height = 100px></picture></p>
 
 <h1 align="center">Hi!, my name is Jared Gonzalez Teran </h1>
 <br>
@@ -105,7 +105,7 @@
 
 <h2 style="font-size: 23px " align="center"> Contributions</h3>
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="JamesIGT/JamesIGT/github-user-contribution (3).svg"
     alt="example" />
 </p>
 
