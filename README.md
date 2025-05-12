@@ -8,7 +8,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-jarecgonzalez-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jarecgonza@gmail.com)](mailto:jarecgonza@gmail.com)
 
 <h3 font-size="20" align="center">Apasionado por las nuevas tecnologias y el desarrollo ESP/ENG.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 - 🌱 I’m currently learning **JavaScript* <img align="right" style="width:15rem; height:auto" src="https://i.pinimg.com/736x/10/00/1e/10001e3ba10847cf1152344bc146be8f.jpg"/>
 
