@@ -101,7 +101,7 @@
   </div>
 </div>
 
-<h3 align="center">Reach me</h3>
+<h3 align="center">Proyects</h3>
 
 <p align="center">
   <a  href="https://t.me/example" target="_blank">
