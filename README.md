@@ -5,13 +5,14 @@
   <img 
     src="https://cdn3.iconfinder.com/data/icons/technology-vol-8-2/1000/cup_coffee_code_programming_developer_team_pause-512.png" 
     width="80px" 
-    style="vertical-align: middle; margin-left: 10px;" 
+    style="vertical-align: middle; margin-left: 10px;
+    margin-bottom: -10px" 
     alt="coffee cup icon" />
 </h1>
 
 
 <h2 style="font-size: 25px;" align="left">⭐ About me:</h2>
-<p style="font-size: 18px; text-indent: 30px;"> - Passionate about new technologies and development ESP/ENG.</p>
+<p style="font-size: 18px; text-indent: 30px;"> Passionate about new technologies and development ESP/ENG.</p>
 
 ---
 
