@@ -33,20 +33,9 @@
 - ⚡ Fun fact **The compiler doesn't judge, but the output does.**
 
 <br>
-<h2 align="left" 
-  style="font-size:25px; 
-  font-weight: bold;">
-  <img 
-    src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" 
-    width="30px" 
-    style="vertical-align: middle; margin-left: 10px;" 
-    alt="coffee cup icon" />
-  Languages and Tools:
-</h2>
 
+<h2 style="font-size: 25px;" align="left">⚙️ Languages and Tools:</h2>
 
-
-<br>
 <table>
     <tr>
         <td style=" font-size: 18px; font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
