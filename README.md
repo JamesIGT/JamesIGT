@@ -3,10 +3,9 @@
 <h1 align="center">
   Hi!, my name is Jared Gonzalez Teran
   <img 
-    src="https://cdn3.iconfinder.com/data/icons/technology-vol-8-2/1000/cup_coffee_code_programming_developer_team_pause-512.png" 
-    width="80px" 
-    style="vertical-align: middle; margin-left: 10px;
-    margin-bottom: -10px" 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJldno0NmRhOXNvNHNhNXhyNmNkYXNjY3Z4Zmpvc2I1emw3OWxrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zM6RzGSTx39u/giphy.gif" 
+    width="70px" 
+    style="vertical-align: middle; margin-left: 10px; 
     alt="coffee cup icon" />
 </h1>
 
