@@ -3,11 +3,9 @@
        width="100%" 
        height="150px" 
        style="display: block; margin: 0 auto;" />
-
-
-<h1 style="font-size: 25px;" align="center"> Hi! My name is <strong>Jared Gonzalez Teran</strong> ☕ </h1>
 </div>
-
+<br>
+<h1 style="font-size: 25px;" align="center"> Hi! My name is <strong>Jared Gonzalez Teran</strong> ☕ </h1>
 
 <h2 style="font-size: 25px;" align="left">⭐ About me:</h2>
 <p style="font-size: 18px; text-indent: 30px;"> Passionate about new technologies and development ESP/ENG.</p>
