@@ -1,4 +1,9 @@
-<p align="center"><img align="center" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg1N2RtZzB6N2d3OHBnNnZ6bThneGR2OHp3eGE2NnF6amJqN3BmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif" width = 100% height = 150px></p>
+<div><img 
+       align="center" 
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg1N2RtZzB6N2d3OHBnNnZ6bThneGR2OHp3eGE2NnF6amJqN3BmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif" 
+       width = 100% 
+       height = 150px />
+</div>
 
 <h1 align="center">
   Hi!, my name is Jared Gonzalez Teran
