@@ -1,17 +1,23 @@
-<p align="center"><picture align="center"><img align="center" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHE4M3hid3ExeGQ0MXR4NnpraHhiMGpiZTlibm0yYjExbDlsOHBrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" width = 100% height = 100px></picture></p>
+<p align="center"><picture align="center"><img align="center" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg1N2RtZzB6N2d3OHBnNnZ6bThneGR2OHp3eGE2NnF6amJqN3BmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif" width = 100% height = 150px></picture></p>
 
-<h1 align="center">Hi!, my name is Jared Gonzalez Teran </h1>
+<h1 align="center">Hi!, my name is Jared Gonzalez Teran <img  style="width:5rem; height:auto; margin-bottom:-22px" src="https://cdn3.iconfinder.com/data/icons/technology-vol-8-2/1000/cup_coffee_code_programming_developer_team_pause-512.png"></h1>
+
 <br>
-<h2 style="font-size: 23px " align="left"> About me:</h2>
-<h2 style="font-size: 23px " align="left"> Passionate about new technologies and development ESP/ENG.</h2>
 
-- 🌱 I’m currently learning **PHP** <img align="right" style="width:15rem; height:auto" src="https://i.pinimg.com/736x/10/00/1e/10001e3ba10847cf1152344bc146be8f.jpg"/>
+<h2 style="font-size: 25px;" align="left">⭐ About me:</h2>
+<p style="font-size: 18px; text-indent: 50px;">Passionate about new technologies and development ESP/ENG.</p>
+
+---
+
+<br>
+
+- 🌱 I’m currently learning **PHP** and **Data Analysis** <img align="right" style="width:12rem; height:auto" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRhY3V5cjdnZ3VwZTM2NGcyd29rbWt4cHJkaW5zcmQwaDFrZnlpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif"/>
 
 - 🌱 Appasionate themes like **Data Sscience** and **Cibersecurity**
 
 - 🤝 I’m looking for help with **Backend Design**
 
-- 💬 Ask me about **Techinch Supports, Hardware and Philosophy 😆**
+- 💬 Ask me about **Technical Supports, Hardware Computer and Philosophy 😆**
 
 - ⚡ Fun fact **The compiler doesn't judge, but the output does.**
 
@@ -20,7 +26,7 @@
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; gap: 8px; align-items: center;">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-    <span style="font-size: 23px; font-weight: bold;">Languages and Tools:</span>
+    <span style="font-size: 25px; font-weight: bold;">Languages and Tools:</span>
   </div>
 </div>
 
@@ -69,7 +75,8 @@
 ----
 <br>
 
-<h2 style="font-size: 23px " align="center"> Connect with me</h3>
+
+<h2 style="font-size: 23px " align="center"> 🌐 Connect with me</h3>
 
 
 <div style="margin-top:10px" align="center">
@@ -96,19 +103,17 @@
 
 <br>
 
-<h2 style="font-size: 23px " align="center"> Proyects</h3>
+<h2 style="font-size: 23px " align="center"> 🚀 Proyects</h3>
 
 <p align="center">
-  In Future More Proyects ...
+  In Future More Proyects ... I still working on that
 </p>
 
 <br>
 
-<h2 style="font-size: 23px " align="center"> Contributions</h3>
-<p align="center">
-  <img  src="https://github.com/JamesIGT/JamesIGT/blob/main/github-user-contribution%20(3).svg"
-    alt="example" />
-    
-</p>
+<h2 style="font-size: 23px " align="center"> 🔧 Contributions</h3>
 
+![JamesIGT's Stats](https://github-readme-stats.vercel.app/api?username=JamesIGT&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![JamesIGT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JamesIGT&theme=vue-dark&hide_border=true)
+![JamesIGT's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesIGT&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ------
