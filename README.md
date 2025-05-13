@@ -5,7 +5,7 @@
        style="display: block; margin: 0 auto;" />
 
 
-<h1 style="font-size: 25px;" align="center">⭐  Hi! My name is <strong>Jared Gonzalez Teran</strong> ☕ </h1>
+<h1 style="font-size: 25px;" align="center"> Hi! My name is <strong>Jared Gonzalez Teran</strong> ☕ </h1>
 </div>
 
 
