@@ -1,4 +1,4 @@
-<p align="center"><picture align="center"><img align="center" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg1N2RtZzB6N2d3OHBnNnZ6bThneGR2OHp3eGE2NnF6amJqN3BmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif" width = 100% height = 150px></picture></p>
+<p align="center"><img align="center" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg1N2RtZzB6N2d3OHBnNnZ6bThneGR2OHp3eGE2NnF6amJqN3BmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif" width = 100% height = 150px></p>
 
 <h1 align="center">
   Hi!, my name is Jared Gonzalez Teran
@@ -86,7 +86,7 @@
 <br>
 
 
-<h2 style="font-size: 23px " align="left"> 🌐 Connect with me</h3>
+<h2 style="font-size: 23px " align="left"> 🌐 Connect with me</h2>
 
 
 <div style="margin-top:10px" align="center">
@@ -113,7 +113,7 @@
 
 <br>
 
-<h2 style="font-size: 23px " align="left"> 🚀 Proyects</h3>
+<h2 style="font-size: 23px " align="left"> 🚀 Proyects</h2>
 
 <p align="left">
   In Future More Proyects ... I still working on that
@@ -121,7 +121,7 @@
 
 <br>
 
-<h2 style="font-size: 23px " align="left"> 🔧 Contributions</h3>
+<h2 style="font-size: 23px " align="left"> 🔧 Contributions</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JamesIGT&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="JamesIGT's Stats" />
