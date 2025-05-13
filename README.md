@@ -4,15 +4,9 @@
        height="150px" 
        style="display: block; margin: 0 auto;" />
 
-  <p style="font-size: 30px;">
-    Hi! My name is <strong>Jared Gonzalez Teran</strong> 
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJldno0NmRhOXNvNHNhNXhyNmNkYXNjY3Z4Zmpvc2I1emw3OWxrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zM6RzGSTx39u/giphy.gif" 
-         width="70px" 
-         style="vertical-align: middle; margin-left: 10px;" 
-         alt="coffee cup icon" />
-  </p>
-</div>
 
+<h1 style="font-size: 25px;" align="center">⭐  Hi! My name is <strong>Jared Gonzalez Teran</strong> ☕ </h1>
+</div>
 
 
 <h2 style="font-size: 25px;" align="left">⭐ About me:</h2>
