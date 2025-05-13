@@ -1,10 +1,17 @@
 <p align="center"><picture align="center"><img align="center" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg1N2RtZzB6N2d3OHBnNnZ6bThneGR2OHp3eGE2NnF6amJqN3BmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif" width = 100% height = 150px></picture></p>
 
-<h1 align="center">Hi!, my name is Jared Gonzalez Teran<img width="80px" style="margin-bottom:-2rem" src="https://cdn3.iconfinder.com/data/icons/technology-vol-8-2/1000/cup_coffee_code_programming_developer_team_pause-512.png"></h1>
-<br>
+<h1 align="center">
+  Hi!, my name is Jared Gonzalez Teran
+  <img 
+    src="https://cdn3.iconfinder.com/data/icons/technology-vol-8-2/1000/cup_coffee_code_programming_developer_team_pause-512.png" 
+    width="80px" 
+    style="vertical-align: middle; margin-left: 10px;" 
+    alt="coffee cup icon" />
+</h1>
+
 
 <h2 style="font-size: 25px;" align="left">⭐ About me:</h2>
-<p style="font-size: 18px; text-indent: 50px;">Passionate about new technologies and development ESP/ENG.</p>
+<p style="font-size: 18px; text-indent: 30px;"> - Passionate about new technologies and development ESP/ENG.</p>
 
 ---
 
@@ -21,7 +28,18 @@
 - ⚡ Fun fact **The compiler doesn't judge, but the output does.**
 
 <br>
-    <h2 style="font-size: 25px; font-weight: bold;"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="margin-bottom:-0.8rem"> Languages and Tools:  </h2>
+<h2 align="left" 
+  style="font-size:25px; 
+  font-weight: bold;">
+  <img 
+    src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" 
+    width="30px" 
+    style="vertical-align: middle; margin-left: 10px;" 
+    alt="coffee cup icon" />
+  Languages and Tools:
+</h2>
+
+
 
 <br>
 <table>
@@ -105,9 +123,12 @@
 
 <h2 style="font-size: 23px " align="left"> 🔧 Contributions</h3>
 
-![JamesIGT's Stats](https://github-readme-stats.vercel.app/api?username=JamesIGT&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JamesIGT&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="JamesIGT's Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamesIGT&theme=vue-dark&hide_border=true" alt="JamesIGT's Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesIGT&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="JamesIGT's Top Languages" />
+</div>
 
-![JamesIGT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JamesIGT&theme=vue-dark&hide_border=true)
-
-![JamesIGT's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesIGT&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ------
